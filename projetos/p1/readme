@@ -1,0 +1,34 @@
+
+
+
+	# implementar no algoritmo um metodo de checagem para monitorar a distancia da borda, para evitar over calculo,
+	noção de erros, dispersao
+
+
+	BASICO:
+
+	PLOTAR X,VX
+	para alguns valores diferentes
+
+	e discutir,
+
+
+	VER A viabilidade de se utilizar algebra linear no caso da mesa quadrada
+
+
+	e sobre isso, refletir e ir tentando e pesquisar
+	sobre a reflexao na mesa circular
+
+	envolvendo a derivada local para procurarmos o vetor normal
+
+	com isso pensar em desenhar a mesa como conjunto de muitos pontos
+	armazenar suas posições e definidas derivadas
+
+	para quando rolar a simulação em outro programa
+(que terá importado esses 3 dados')
+	
+	podendo entao encontrar o vetor normal em cada ponto em que a 
+	colisao ocorreu
+
+
+

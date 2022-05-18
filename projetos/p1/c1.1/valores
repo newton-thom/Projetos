@@ -1,0 +1,6 @@
+os parametros de entrada
+foram[
+N=1000
+dt=0.3
+x,y= 50,50
+vx,vx = 5,3

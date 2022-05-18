@@ -1,0 +1,6 @@
+#Numero de iteracoes, dt
+1000,0.3
+#x e y iniciais
+50,50
+#vx,vy iniciais
+5,3

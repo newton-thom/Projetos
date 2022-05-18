@@ -1,0 +1,3 @@
+ #as colunas representam na ordem:
+ # x(t)             y(t)             vx(t)   vy(t)             t
+   80.0000000       90.0000000       13.0000000       15.0000000       0.00000000    

@@ -1,0 +1,9 @@
+#planeta : 	Massa:10^23 kg		Raio:(AU)	Ecentricidade
+
+mercurio 2.4 0.39 0.206
+venus 49 0.72 0.007
+terra 60 1.0 0.017
+marte 6.6 1.52 0.093
+jupiter	19000 5.2 0.048
+saturno	5700 9.54 0.056
+
